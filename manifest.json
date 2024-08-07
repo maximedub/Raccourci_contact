@@ -1,0 +1,21 @@
+{
+  "manifest_version": 1,
+  "name": "Google Contact - raccourci",
+  "description": "Ajoute une icône dans la barre d'espaces pour ouvrir rapidement Google Contact.",
+  "version": "0.1",
+  "author": "马到成功",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@马到成功.googlecontact.fr",
+      "strict_min_version": "106.0"
+    }
+  },
+  "icons": {
+    "32": "contact_google.svg"
+  },
+  "background": {
+    "scripts": [
+      "redirect.js"
+    ]
+  }
+}
