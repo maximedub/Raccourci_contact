@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "Google Contact - raccourci",
   "description": "Ajoute une icône dans la barre d'espaces pour ouvrir rapidement Google Contact.",
   "version": "0.1",
